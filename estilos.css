@@ -45,7 +45,6 @@ nav ul{
 }
 
 .glucometro_imagen{
-    border-radius: 20px;
     display: flex;
     flex-direction: row-reverse;
     justify-content: space-between;
